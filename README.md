@@ -10,6 +10,14 @@ Development dependencies installed with:
 
 ```
 💻 npm install -D jest jest-environment-jsdom husky lint-staged prettier eslint-config-prettier @testing-library/react @testing-library/jest-dom
+💻 npx install-peerdeps --dev eslint-config-airbnb
+💻 npm install -D eslint-import-resolver-alias
+```
+
+Other dependencies installed with:
+
+```
+💻 npm install -S prop-types
 ```
 
 ### Additional tools you might need
