@@ -9,7 +9,7 @@ This project skeleton has been setup similar to our assignments and practicals. 
 Development dependencies installed with:
 
 ```
-💻 npm install -D jest jest-environment-jsdom husky lint-staged prettier eslint-config-prettier @testing-library/react @testing-library/jest-dom
+💻 npm install -D jest jest-environment-jsdom husky lint-staged prettier eslint-config-prettier @testing-library/react @testing-library/jest-dom cross-env
 💻 npx install-peerdeps --dev eslint-config-airbnb
 💻 npm install -D eslint-import-resolver-alias
 ```
